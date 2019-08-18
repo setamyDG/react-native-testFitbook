@@ -7,19 +7,19 @@ export default class Friday extends Component {
       <Days
         dayName="FRIDAY"
 
-        dayBreakfast="FRIDAY BREAKFAST"
+        dayBreakfast="fRIDAY BREAKFAST"
         imageBreakfastSrc={require('../../../assets/images/breakfast4.jpeg')}
 
-        dayLunch="FRIDAY LUNCH"
+        dayLunch="fRIDAY LUNCH"
         imageLunchSrc={require('../../../assets/images/secondBreakfast.jpeg')}
 
-        dayDinner="FRIDAY DINNER"
+        dayDinner="fRIDAY DINNER"
         imageDinnerSrc={require('../../../assets/images/dinner.jpeg')}
 
-        daySnack="FRIDAY SNACK"
+        daySnack="fRIDAY SNACK"
         imageSnackSrc={require('../../../assets/images/snack.jpeg')}
 
-        daySupper="FRIDAY SUPPER"
+        daySupper="fRIDAY SUPPER"
         imageSupperSrc={require('../../../assets/images/dinner2.jpeg')}
       />
     );
